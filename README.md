@@ -1,6 +1,6 @@
-# testing
+# 3-d Imaging Using Flutter
 
-A new Flutter project.
+A new Flutter project which displays the 3-d models in the app. The only requirement is the .obj and .mtl files for the 3-d objects. 
 
 ## Getting Started
 
